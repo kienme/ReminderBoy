@@ -1,0 +1,41 @@
+.App {
+	padding: 5px;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title {
+	text-align: center;
+}
+
+.form {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.formGroup {
+	width: 100%;
+	text-align: left;
+}
+
+.listItemText {
+	padding-bottom: 15px;
+}
+
+.completedText {
+	text-decoration: line-through;
+}
+
+#deleteButton {
+	margin-left: 5px;
+	float: right;
+}
+
+#inputField {
+	min-width: 70%;
+}
+
+#inputButton {
+	min-width: 30%;
+}
