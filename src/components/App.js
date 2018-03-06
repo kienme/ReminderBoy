@@ -57,6 +57,7 @@ class App extends Component {
             <div className='App'>
                 <div className='title'>
                     <h2>ReminderBoy</h2>
+                    <quote>Deceptively simple to-do list</quote>
                 </div>
                 <div className='body'>
                     <Form inline className='form' onSubmit={() => this.addReminder()} action='#'>
